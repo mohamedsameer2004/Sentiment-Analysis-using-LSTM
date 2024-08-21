@@ -45,6 +45,12 @@ pip install -r requirements.txt
 
 5.Follow the prompts to preprocess the IMDb dataset, train the LSTM model, and make predictions.
 
+## Dataset
+
+Due to its size, the dataset is not included in this repository. Please download it from the following link:
+
+- [Download IMDB Dataset]([https://example.com/your-dataset-link](https://drive.google.com/file/d/1bUJvb4U-TKMwbkI9WrlrEOaKSZfxPLsR/view?usp=drive_link))
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
