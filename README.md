@@ -51,7 +51,7 @@ Due to its size, the dataset is not included in this repository. Please download
 
 - [Download IMDB Dataset]
 - ```bash
-  [ git clone https://github.com/your-username/sentiment-analysis-lstm.git](https://drive.google.com/file/d/1bUJvb4U-TKMwbkI9WrlrEOaKSZfxPLsR/view?usp=drive_link)
+  https://drive.google.com/file/d/1bUJvb4U-TKMwbkI9WrlrEOaKSZfxPLsR/view?usp=drive_link
 
 
 
