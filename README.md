@@ -49,7 +49,10 @@ pip install -r requirements.txt
 
 Due to its size, the dataset is not included in this repository. Please download it from the following link:
 
-- [Download IMDB Dataset]([https://example.com/your-dataset-link](https://drive.google.com/file/d/1bUJvb4U-TKMwbkI9WrlrEOaKSZfxPLsR/view?usp=drive_link))
+- [Download IMDB Dataset]
+- ```bash
+  [ git clone https://github.com/your-username/sentiment-analysis-lstm.git](https://drive.google.com/file/d/1bUJvb4U-TKMwbkI9WrlrEOaKSZfxPLsR/view?usp=drive_link)
+
 
 
 License
